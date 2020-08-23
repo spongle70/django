@@ -26,7 +26,7 @@ SECRET_KEY = '(-(afx=+10kvusjcr72!%1($6fnml-@##t*y_as^f+39@*2=)('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [still-forest-16703.herokuapp.com]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
